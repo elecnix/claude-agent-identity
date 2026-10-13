@@ -1,0 +1,10 @@
+{
+  "name": "agent-identity",
+  "version": "0.1.0",
+  "description": "Gives every Claude Code session a minted agent handle such as cc-swift-koala-42.",
+  "author": { "name": "Nicolas Marchildon", "url": "https://github.com/elecnix" },
+  "homepage": "https://github.com/elecnix/claude-agent-identity",
+  "repository": "https://github.com/elecnix/claude-agent-identity",
+  "license": "MIT",
+  "keywords": ["agent", "identity", "handle", "session", "hook"]
+}

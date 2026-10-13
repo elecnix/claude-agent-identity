@@ -1,0 +1,15 @@
+{
+  "name": "elecnix",
+  "owner": {
+    "name": "Nicolas Marchildon",
+    "url": "https://github.com/elecnix"
+  },
+  "plugins": [
+    {
+      "name": "agent-identity",
+      "source": "./",
+      "description": "Gives every Claude Code session a minted agent handle such as cc-swift-koala-42."
+    }
+  ],
+  "description": "Agent handles for Claude Code sessions."
+}
