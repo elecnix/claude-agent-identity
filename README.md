@@ -6,9 +6,11 @@ It is the Claude Code counterpart of [pi-agent-identity](https://github.com/elec
 
 ## Install
 
+The [elecnix/claude-plugins](https://github.com/elecnix/claude-plugins) marketplace lists the plugin. Add that marketplace once, then install the plugin from it:
+
 ```sh
-claude plugin marketplace add elecnix/claude-agent-identity
-claude plugin install agent-identity@elecnix
+claude plugin marketplace add elecnix/claude-plugins
+claude plugin install agent-identity@elecnix-plugins
 ```
 
 The plugin needs `bash` and `jq`.
